@@ -1,5 +1,5 @@
-                                              Decorator Pattern
-                                              =================
+Decorator Pattern
+=================                                             
 
 General Description
 -------------------
